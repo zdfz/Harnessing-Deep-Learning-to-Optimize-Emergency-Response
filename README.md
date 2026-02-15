@@ -1,4 +1,4 @@
-!(./images/Harnessing Deep Learning to Optimize Emergency Response.png)
+![Test](./images/Harnessing%20Deep%20Learning%20to%20Optimize%20Emergency%20Response.png)
 
 # Harnessing Deep Learning to Optimize Emergency Response
 
