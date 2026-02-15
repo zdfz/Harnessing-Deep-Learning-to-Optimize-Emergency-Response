@@ -66,7 +66,7 @@ The first semester established the project foundation through comprehensive plan
 - System Design Specification (SDS)
 - Final report and presentation
 
-## Second Semester (January 2026 - February 2026)
+## Second Semester (January 2026 - May 2026)
 
 ### Planned Work
 
