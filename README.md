@@ -66,32 +66,55 @@ The first semester established the project foundation through comprehensive plan
 - System Design Specification (SDS)
 - Final report and presentation
 
-## Second Semester (January 2026 - May 2026)
+## Second Semester (January 2026 - June 2026)
 
 ### Planned Work
 
-The second semester will focus on implementation, testing, and deployment:
+The second semester will focus on implementation, testing, deployment, and final presentation:
 
-#### Implementation Phase
+#### Week 1: Documentation (Jan 18, 2026)
+- Documentation of examiners' feedback from first semester
+- Review and address committee recommendations
+
+#### Weeks 2-8: Implementation Phase (Jan 25 - Mar 29, 2026)
 - Development of the accident detection model using YOLOv8
 - Implementation of real-time video processing with OpenCV
-- Training the model on traffic accident datasets
+- Training the model on traffic accident datasets (5,700+ videos)
 - Development of the alert dashboard using Flask
 - Integration of all system components
+- Bi-weekly progress reports (Reports #1, #2, #3, #4)
+- **Midterm Report Submission:** March 29, 2026
 
-#### Testing Phase
+#### Weeks 9-12: Testing Phase (Apr 5 - Apr 26, 2026)
 - Unit testing of individual components
 - Integration testing of the complete system
 - Performance testing for real-time detection latency
 - Validation against target metrics (85%+ precision/recall/F1-score, sub-2-second latency)
 - Testing with various weather conditions and camera angles
+- Bi-weekly progress reports (Reports #5, #6)
 
-#### Deployment Phase
-- System deployment and configuration
-- Documentation of deployment procedures
-- Creation of system operation and maintenance guide
-- Final system demonstration
-- Project completion and handover
+#### Weeks 13-15: Deployment Phase (May 3 - May 17, 2026)
+- End-user deployment and configuration
+- User manual preparation
+- Installation guide creation
+- System operation and maintenance documentation
+- Project showcase participation (May 3-18, 2026)
+- Final report writing and submission
+- Bi-weekly progress report (Report #7)
+- **Final Report Submission:** May 17, 2026
+
+#### Weeks 16-19: Final Presentation (May 19 - June 23, 2026)
+- Presentation preparation
+- Final project demonstration
+- Oral presentation to faculty committee
+- **Presentation Period:** May 19 - June 23, 2026
+
+### Bi-Weekly Progress Reports
+Throughout the semester, the team will submit seven bi-weekly progress reports documenting:
+- Work completed during the period
+- Challenges encountered and solutions implemented
+- Plans for the next reporting period
+- Alignment with project timeline and objectives
 
 ### Technologies and Tools
 - **Programming Language:** Python
@@ -103,21 +126,27 @@ The second semester will focus on implementation, testing, and deployment:
 - **Collaboration:** Microsoft Teams, Google Drive
 
 ### Target Deliverables
+- Bi-weekly progress reports (7 reports)
+- Midterm report (March 29, 2026)
 - Fully functional accident detection system
 - Trained model with optimized weights
 - Alert dashboard interface
 - Complete system documentation
-- User manual and maintenance guide
-- Final project presentation
+- User manual and installation guide
+- System operation and maintenance guide
+- Final report (May 17, 2026)
+- Project showcase demonstration (May 3-18, 2026)
+- Final presentation (May 19 - June 23, 2026)
 - Source code repository on GitHub
 
 ## Project Timeline
 
-**Overall Duration:** August 31, 2025 - February 20, 2026
+**Overall Duration:** August 31, 2025 - June 23, 2026
 
-- **First Semester:** Planning, requirements, and design
-- **Second Semester:** Implementation, testing, and deployment
+- **First Semester (Aug 2025 - Dec 2025):** Planning, requirements, and design
+- **Second Semester (Jan 2026 - Jun 2026):** Implementation, testing, deployment, and presentation
 
 ## License
 
 This project is submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Artificial Intelligence at Imam Abdulrahman Bin Faisal University.
+
