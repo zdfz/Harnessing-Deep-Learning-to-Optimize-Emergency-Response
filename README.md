@@ -1,3 +1,5 @@
+(./images/Harnessing Deep Learning to Optimize Emergency Response.png)
+
 # Harnessing Deep Learning to Optimize Emergency Response
 
 An AI-powered system for automatic accident detection from live traffic camera feeds to reduce emergency response times.
